@@ -1,5 +1,7 @@
 # AI Agent in a Box for SMBs
 
+<p align="center"><img src="./assets/og-image.png" alt="ai-agent-starter-smb banner" width="800"></p>
+
 > Deploy a customer-facing AI agent (support, lead-gen, or ops) for your business in 2 weeks.
 
 [![CI](https://github.com/QuantumSwarms/ai-agent-starter-smb/actions/workflows/ci.yml/badge.svg)](https://github.com/QuantumSwarms/ai-agent-starter-smb/actions/workflows/ci.yml)
